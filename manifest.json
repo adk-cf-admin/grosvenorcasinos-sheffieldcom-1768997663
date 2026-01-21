@@ -1,0 +1,19 @@
+{
+  "name": "Grosvenor Casino Sheffield",
+  "short_name": "Grosvenor Casino Sheffield",
+  "theme_color": "",
+  "background_color": "#1A1A1A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768994256-favicon-20.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
